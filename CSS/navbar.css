@@ -1,0 +1,49 @@
+
+
+.navbar p {
+  float: left;
+  font-size: 40px;
+  margin: 20px;
+  margin-left: 40px;
+
+}
+
+.navbar ul{
+  font-size: 18px;
+  font-weight: bold;
+  float: right;
+  margin: 20px;
+  padding: 0x;
+  line-height: 60px;
+}
+
+.navbar li {
+  list-style: none;
+  float: left;
+  margin-left: 40px;
+  vertical-align: middle;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: black;
+}
+
+.navbar .logoutBtn {
+
+  margin-right: 40px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+#current {
+  text-decoration: underline;
+}
+
+.clear  {
+  clear: both;
+}
