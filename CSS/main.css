@@ -2,3 +2,37 @@
   text-align: center;
   font-size: 30px;
 }
+
+.table{
+  margin-left:auto; 
+  margin-right:auto;
+  width: 80%;
+  margin-top: 60px;
+}
+
+td{
+  border: 1px solid black;
+  height: 35px;
+}
+
+.name {
+  width: 200px;
+}
+
+.number {
+  width: 200px;
+}
+.grade {
+  width: 200px;
+}
+.isFreeTime {
+  width: 200px;
+}
+.t1 {
+  background-color: #F1F3EF;
+  height: 40px;
+}
+.t2 {
+  background-color: #FDF4DC;
+  height: 40px;
+}
