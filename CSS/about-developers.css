@@ -1,0 +1,31 @@
+.developers .person img {
+  width: 200px;
+  height: 200px;
+}
+
+.person{
+  border: 2px solid black;
+  float: left;
+  text-align: center;
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+
+.job {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.name {
+  margin-top: 1px;
+}
+
+.developers {
+  width: 1180px;
+  position: absolute;
+  left: 50%;
+  margin-left: -600px;
+  margin-top: 100px;
+}
