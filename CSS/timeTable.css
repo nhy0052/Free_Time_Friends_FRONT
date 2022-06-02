@@ -1,0 +1,23 @@
+
+
+.rowname {
+  background-color: #E5E5E5;
+}
+
+td {
+  border: 1px solid black;
+}
+
+.noUnderline {
+  border-bottom: 0px;
+}
+.noOverline {
+  border-top: 0px;
+}
+
+.rows {
+  width: 15%;
+}
+
+
+

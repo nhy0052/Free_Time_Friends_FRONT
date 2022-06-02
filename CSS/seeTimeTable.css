@@ -1,0 +1,41 @@
+.red {
+  color: red;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.big {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-weight: bold;
+  font-size: 25px;
+  float: left;
+}
+
+.table {
+  margin: auto;
+  margin-top: 10px;
+  width: 70%;
+  height: 550px;
+  
+}
+
+.btn {
+  text-decoration: none;
+  color: black;
+  border: 1px solid black;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+  margin-top: 0px;
+  margin-left: 780px;
+}
+
+.semester {
+
+  width: 1000px;
+  margin: auto;
+  margin-top: 0px;
+}
